@@ -1,2 +1,3 @@
  is a telugu new project
  for 8th class batch
+ add a note pad in telugu project
